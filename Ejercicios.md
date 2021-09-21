@@ -11,7 +11,7 @@ Ejercicios de scripts de linux
 -Ejercicio 8: Realiza un script que muestre las conexciones actuales, el contentido del directorio actual visualizando los ocultos y resetear el equipo
 -Ejercicio 9: Inserta dos valores con teclado e indica cual es el mayor
 -Ejercicio 10: Pasados los dos valores por parámetros, indicar cual de ellos es mayor, controlando la posibilidad de que sean iguales
--Ejercicio 11: Borrar un ficero pasado por parámetro tenidno en cuenta que sino se ha introducido ningún parámetro indicaremos un mensaje de error y que antes de borrarlo lo copiaremos en otro directorio.
+-Ejercicio 11: Borrar un ficero pasado por parámetro teniendo en cuenta que sino se ha introducido ningún parámetro indicaremos un mensaje de error y que antes de borrarlo lo copiaremos en otro directorio.
 -Ejercicio 12: Realiza un script qeu reciba el nombre de un archivo como parametro y nos indique mediante un mensaje de usuario si el archivo tiene permiso de lectura, escritura y ejecucción, controlar todos los posibles errores.
 -Ejercicio 13: Crear un script que realice las siguientes tareas, crear un directorio llamado dir1, comprobando previamente que no existe, movernos al directorio, crear un fichero llamado ift con los nombres de los archivos del directorio /dev que empiecen por t y acaben por cualquier numero entre 0-9, añadir a este fichero el contenido del direcotrio /etc/passwd y visualizar de forma paginada el contenido del fichero
 -Ejercicio 14: Realizar un script que permita copiar un fichero en otro, comprobando todos los posibles errores (los nombres de los ficheros se pasan por parámetro) y pidiendo conformidad antes de copiar?
