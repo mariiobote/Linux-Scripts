@@ -8,4 +8,7 @@ Ejercicios de scripts de linux
 -Ejercicio 5: Introduce 2 números como variables e imprime su suma
 -Ejercicio 6: Introduce 2 números como parametro y realiza su resta, muestra además la lista de parámetros y el número de parámetros introducidos.
 -Ejercicio 7: Realiza un script que permita visualizar el directorio home y la shell del usuario actual
--Ejercicio 8: Realiza un script que muestre las conexciones actuales, el contentido del directorio actual visualizando los ocultos y resetear el equipo-
+-Ejercicio 8: Realiza un script que muestre las conexciones actuales, el contentido del directorio actual visualizando los ocultos y resetear el equipo
+-Ejercicio 9: Inserta dos valores con teclado e indica cual es el mayor
+-Ejercicio 10: Pasados los dos valores por parámetros, indicar cual de ellos es mayor, controlando la posibilidad de que sean iguales
+-Ejercicio 11: Borrar un ficero pasado por parámetro tenidno en cuenta que sino se ha introducido ningún parámetro indicaremos un mensaje de error y que antes de borrarlo lo copiaremos en otro directorio.README.md
